@@ -5,7 +5,7 @@ while count <= 5:
 print("Loop done!")
 
 y = input("is this 5?").strip()
-if y == "yes": #checks user responce lolollol
+if y == "yes": #checks user response
    print("yay")
 else:
     print("NOOOOO!")
