@@ -8,6 +8,6 @@ y = input("is this 5?").strip()
 if y == "yes": #checks user response
    print("yay")
 else:
-    print("NOOOOO!")
+    print("NOOOOO!") #print stuff lol
 
 
